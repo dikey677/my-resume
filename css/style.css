@@ -187,7 +187,7 @@ body {
 }
 
 .sidebar__photo {
-  width: 100%;
+  width: 360px;
   height: auto;
 }
 
@@ -209,8 +209,6 @@ body {
 .soft-skills {
   margin: 50px 0 0 40px;
 }
-
-
 
 /* Contacts section */
 .sidebar__contacts-type {
